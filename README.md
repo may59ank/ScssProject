@@ -1,6 +1,7 @@
 # ScssProject
 
-Languages used are: HTML5, SCSS
+### Languages used are: <br>
+<img width="40" alt="Screenshot 2021-11-30 at 17 33 56" src="https://user-images.githubusercontent.com/46961186/144096109-142bc06a-d8fd-4100-866b-3c1d6936970d.png"> <img width="40" alt="Screenshot 2021-11-30 at 17 33 56" src="https://user-images.githubusercontent.com/46961186/144096109-142bc06a-d8fd-4100-866b-3c1d6936970d.png">
 
 This is a practice project for SCSS, it's a very small project with just header and hero section but it covers most of the major topics of SCSS language. From variable declarations, functions, mixins to media queries it contains everything you need to learn SCSS.
 
